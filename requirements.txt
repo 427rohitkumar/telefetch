@@ -1,0 +1,8 @@
+telethon>=1.36.0
+customtkinter>=5.2.0
+pyaes>=1.6.1
+pyasn1>=0.6.0
+rsa>=4.9.0
+python-dateutil>=2.8.2
+pypdf>=5.0.0
+natsort>=8.4.0
